@@ -19,7 +19,7 @@ Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [Challenge An
 
 
 
-1. [Télécharge l’installeur](https://tonlien.com/anawan-viewer-setup.exe) *(à héberger toi-même ou à compléter)*
+1. [Télécharge l’installeur](https://tonlien.com/anawan-viewer-setup.exe)
 2. Lance le fichier `.exe` et suis l’installation
 3. Clique sur **Anawan Viewer** dans le menu démarrer ou sur le bureau
 
