@@ -1,0 +1,28 @@
+{
+  "name": "bobby-launcher",
+  "version": "1.0.0",
+  "description": "un lancher pour bobby",
+  "main": "main.js",
+  "author": "rexmine-code",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.rexmine.bobbylauncher",
+    "productName": "Bobby Launcher",
+    "copyright": "Copyright © 2025 rexmine-code",
+    "win": {
+      "target": "nsis"
+      
+    },
+    "directories": {
+      "output": "dist"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}
