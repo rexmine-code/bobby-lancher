@@ -36,7 +36,7 @@ Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby game](
 ```bash
 # 1. Cloner le projet
 git clone https://github.com/rexmine-code/bobby-lancher.git
-cd anawan-viewer
+cd bobby-lancher
 
 # 2. Installer les dépendances
 npm install
