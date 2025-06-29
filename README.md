@@ -1,0 +1,44 @@
+# ⚡ Anawan Viewer – Édition Speedrun
+
+Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [Challenge Anawan](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
+
+---
+
+## 🎮 Pensé pour les Speedrunners
+
+- Lancement **instantané** du jeu dans une fenêtre dédiée
+- **Sans navigateur**, ni barre d’adresse, ni latence
+- Fenêtre épurée, focus total sur le niveau
+- Prêt pour les resets rapides 🔁
+
+---
+
+## 🚀 Deux méthodes pour l'utiliser
+
+### ✅ Méthode 1 – Téléchargement rapide (.exe)
+
+
+
+1. [Télécharge l’installeur](https://tonlien.com/anawan-viewer-setup.exe) *(à héberger toi-même ou à compléter)*
+2. Lance le fichier `.exe` et suis l’installation
+3. Clique sur **Anawan Viewer** dans le menu démarrer ou sur le bureau
+
+🕹️ Le jeu s’ouvre directement, prêt à speedrun !
+
+---
+
+### 🛠️ Méthode 2 – Construction manuelle (dev)
+
+
+#### Étapes :
+
+```bash
+# 1. Cloner le projet
+git clone https://github.com/ton-utilisateur/anawan-viewer.git
+cd anawan-viewer
+
+# 2. Installer les dépendances
+npm install
+
+# 3. Lancer l'application en dev
+npm start
