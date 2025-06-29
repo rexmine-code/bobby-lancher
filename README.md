@@ -1,6 +1,6 @@
-# ⚡ Anawan Viewer – Édition Speedrun
+# ⚡ bobby lancher – Édition Speedrun
 
-Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [Challenge Anawan](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
+Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby game](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
 
 ---
 
@@ -22,7 +22,7 @@ Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [Challenge An
 1. [Télécharge l’installeur](https://github.com/rexmine-code/bobby-lancher/releases)
 2. prend la dernière relase telecharge l'instalateur
 3. Lance le fichier `.exe` et suis l’installation
-4. Clique sur **Anawan Viewer** dans le menu démarrer ou sur le bureau
+4. Clique sur **bobby lancher** dans le menu démarrer ou sur le bureau
 
 🕹️ Le jeu s’ouvre directement, prêt à speedrun !
 
