@@ -1,21 +1,20 @@
-# ⚡ bobby lancher – Édition Speedrun
+# bobby lancher – Édition Speedrun
 
 Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby game](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
 
 ---
 
-## 🎮 Pensé pour les Speedrunners
+##  Pensé pour les Speedrunners
 
 - Lancement **instantané** du jeu dans une fenêtre dédiée
 - **Sans navigateur**, ni barre d’adresse, ni latence
-- Fenêtre épurée, focus total sur le niveau
-- Prêt pour les resets rapides 🔁
+
 
 ---
 
-## 🚀 Deux méthodes pour l'utiliser
+##  Deux méthodes pour l'utiliser
 
-### ✅ Méthode 1 – Téléchargement rapide (.exe)
+###  Méthode 1 – Téléchargement rapide (.exe)
 
 
 
@@ -24,11 +23,11 @@ Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby game](
 3. Lance le fichier `.exe` et suis l’installation
 4. Clique sur **bobby lancher** dans le menu démarrer ou sur le bureau
 
-🕹️ Le jeu s’ouvre directement, prêt à speedrun !
+ Le jeu s’ouvre directement, prêt à speedrun !
 
 ---
 
-### 🛠️ Méthode 2 – Construction manuelle (dev)
+###  Méthode 2 – Construction manuelle (dev)
 
 
 #### Étapes :
