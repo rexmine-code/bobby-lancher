@@ -1,6 +1,6 @@
 # bobby lancher – Édition Speedrun
 
-Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby game](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
+Un launcher ultra-léger **optimisé pour le speedrun** sur le jeu [bobby](https://challenge.anawan.io). Lance le jeu en un clic, sans navigateur, sans onglets, sans distractions.
 
 ---
 
